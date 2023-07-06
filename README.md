@@ -6,11 +6,16 @@ This script is designed to take a list of prompts related to the fundamentals an
 
 First, install the necessary libraries:
 
+```
 pip install openai
+```
 
 Then, run the script:
 
+```
 python GTP4All_Playground.py
+```
+
 
 The script will generate output JSON files containing the results from each model for each prompt. Each file is named according to the format `<model_name>_output_<max_tokens>_tokens.json`, and is stored in a directory corresponding to the prompt.
 
