@@ -13,7 +13,7 @@ pip install openai
 Then, run the script:
 
 ```
-python GTP4All_Playground.py
+python GPT4All_Playground.py
 ```
 
 
